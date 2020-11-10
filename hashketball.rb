@@ -123,4 +123,6 @@ game_hash = {
   }
   
   
- 
+ def game_hash
+   {}
+  end 
