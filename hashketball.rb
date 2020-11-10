@@ -1,3 +1,4 @@
+
 game_hash = {
   :home => {
     :team_name => "Brooklyn Nets", 
@@ -123,6 +124,5 @@ game_hash = {
   }
 }  
   
- def game_hash
   return {}
 end 
