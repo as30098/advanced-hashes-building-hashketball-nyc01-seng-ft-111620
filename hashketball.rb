@@ -86,7 +86,7 @@ game_hash =
         :blocks => 15,
         :slam_dunks => 10
       }, 
-       {
+      {
         :player_name => "DeSagna Diop", 
         :number => 2,
         :shoe => 14, 
@@ -97,7 +97,7 @@ game_hash =
         :blocks => 5,
         :slam_dunks => 5
       },
-       {
+      {
         :player_name => "Ben Gordon", 
         :number => 8,
         :shoe => 15, 
@@ -108,7 +108,7 @@ game_hash =
         :blocks => 1,
         :slam_dunks => 0 
       },
-       {
+      {
         :player_name => "Kemba Walker", 
         :number => 33,
         :shoe => 15, 
