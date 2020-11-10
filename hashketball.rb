@@ -121,7 +121,7 @@ game_hash = {
       }
     ]
   }
-  
+}  
   
  def game_hash
   return {}
